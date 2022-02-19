@@ -1,0 +1,8 @@
+# Thien Trinh
+# Homework 3
+# Problem 2
+# 04/24/2019
+
+There may be more than 100 URLs because some of the popular links on the webpage included links to other webpages are references inside their summaries. There are links in the headers and the bottom too, belonging to the native website and have nothing to do with the most popular sites
+
+To only pick the 100 popular websites, I noticed that before the <a href...> section, all of the 100 popular websites has the <strong> tag, that no other links have. Therefore, that is what I search for in grep. 

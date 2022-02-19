@@ -1,0 +1,2 @@
+1 http://courses.cs.washington.edu/courses/cse374/18sp/ 7986
+3 http://courses.cs.washington.edu/courses/cse374/18sp/syllabus.html 11123

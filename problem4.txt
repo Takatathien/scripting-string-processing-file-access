@@ -1,0 +1,12 @@
+# Thien Trinh
+# Homeworrk 3
+# Problem 4
+# 04/24/2019
+
+Set the x axis label as "Rank"
+Set the y acus label as "Size (Bytes)"
+Set the display window so that x can show from 0 to 100.
+Set the output file as "scatterplot.eps"
+Plot the file "results.txt" using the first and third part of each line inside the file. Using point to displace the data.
+
+Most of the most popular size have lower bytes size, which is what we expected from the beginning.
